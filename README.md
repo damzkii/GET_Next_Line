@@ -12,4 +12,4 @@ Function returns 1 if a line has been read, 0 when reading has been completed an
 ## Why?
 This function is a simple and challenging project which allows you to learn deeply about open(), read() and close() 
 functions as well as static variables and file descriptors. I've updated my libft library and added this function there
-and used it on future projects like fdf.
+and used it on future projects like **FDF-Project**.
