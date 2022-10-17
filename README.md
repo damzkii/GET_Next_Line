@@ -2,7 +2,7 @@
 This project is a function that reads one line at the time from a given text file. The line should be ending by '\n' 
 newline character so it can move forward for the next line. The function reads a line from given file descriptor and saves it to the variable "line". 
 Function returns 1 if a line has been read, 0 when reading has been completed and -1 in case of an error.  
-## Installation  
+## How to test the function  
 1. git clone https://github.com/damzkii/GET_Next_Line  
 2. in the root cd libft (libft folder)  
 3. make all (in the libft folder)  
